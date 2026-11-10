@@ -6,7 +6,7 @@ SQL queries are in the [project_sql folder](/project_sql/).
 # Background
 This project was created to better understand the data analyst job market by pinpointing the top-paying and most in-demand skills, making it easier for others to find the best job opportunities.
 
-The data comes from the [SQL Course](https://www.lukebarousse.com/sql) and includes job titles, salaries, locations, and essential skills.
+The data comes from Luke Barousse's [SQL Course](https://www.lukebarousse.com/sql) and includes job titles, salaries, locations, and essential skills.
 
 ### Questions Answered with SQL
 
